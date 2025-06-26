@@ -1,6 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy [Dani]</h1>
-<h3 align="center">💻 Estudiante de DAM2 | Apasionado por la programación</h3>
-
+<h1 align="center">¡Hola! 👋 mi nombre es Dani</h1>
 ---
 
 🎓 Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM2)** en el **IES Alonso Madrigal** (Ávila).  
@@ -26,7 +24,7 @@
 ---
 
 ### 📫 Contacto
-- Correo: [daniel.lopgon.4@gmail.com]
+- Correo: daniel.lopgon.4@gmail.com
 
 ---
 
