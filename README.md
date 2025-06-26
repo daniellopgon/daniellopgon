@@ -18,9 +18,9 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daniellopgon&show_icons=true&theme=dracula" alt="Estadísticas de GitHub" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dracula" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellopgon&theme=dracula" alt="Racha de contribuciones" />
 </p>
 
 ---
