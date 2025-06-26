@@ -13,14 +13,24 @@
 
 ---
 
+### 🎯 Lo que estoy aprendiendo actualmente
+
+- 📱 Desarrollo de aplicaciones Android con **Kotlin**
+- 🧱 Fundamentos de **arquitectura de software**
+- 🌱 Buenas prácticas con **Git y GitHub**
+- ☁️ Fundamentos de **computación en la nube (AWS)**
+- 🧠 Preparándome para certificaciones oficiales:
+  - 🐍 **PCEP** – Python Certified Entry-Level Programmer
+  - ☕ **OCA Java SE** – Oracle Certified Associate
+  - 🛢️ **SQL** – Certificación en bases de datos relacionales
+
+
+
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daniellopgon&show_icons=true&theme=dracula" alt="Estadísticas de GitHub" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daniellopgon&theme=dracula" alt="Racha de contribuciones" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellopgon&layout=compact&theme=dracula" />
 </p>
-
 ---
 
 ### 📫 Contacto
