@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋 Soy [Dani]</h1>
+<h3 align="center">💻 Estudiante de DAM2 | Apasionado por la programación</h3>
 
-<!--
-**daniellopgon/daniellopgon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM2)** en el **IES Alonso Madrigal** (Ávila).  
+🚀 Busco un sitio donde hacer mis **prácticas** o un primer contrato como **desarrollador junior**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías que manejo:
+- **Lenguajes:** Java, Python, JavaScript, Kotlin, SQL, PL/SQL  
+- **Bases de datos:** MySQL, Oracle  
+- **Entornos:** IntelliJ, VS Code, Android Studio, Git
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula" alt="Estadísticas de GitHub" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dracula" alt="Racha de contribuciones" />
+</p>
+
+---
+
+### 📫 Contacto
+- Correo: [daniel.lopgon.4@gmail.com]
+
+---
+
+<p align="center">
+  <i>"Programar no es solo escribir código, es construir ideas con lógica y creatividad."</i>
+</p>
+
