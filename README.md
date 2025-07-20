@@ -21,8 +21,8 @@
 - ☁️ Fundamentos de **computación en la nube (AWS)**
 - 🧠 Preparándome para certificaciones oficiales:
   - 🐍 **PCEP** – Python Certified Entry-Level Programmer
-  - ☕ **OCA Java SE** – Oracle Certified Associate
-  - 🛢️ **SQL** – Certificación en bases de datos relacionales
+  - ☕ **Associate Android Developer** -Certificación Android,Kotlin
+  - 🛢️ **AWS Certified Cloud Practitioner** – Certificación en Amazon web service, computación en la nube.
 
 
 
