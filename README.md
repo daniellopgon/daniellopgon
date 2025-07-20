@@ -29,7 +29,7 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellopgon&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellopgon&layout=compact&theme=dracula&cache_bust=20250720" />
 </p>
 ---
 
