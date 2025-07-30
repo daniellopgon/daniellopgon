@@ -20,10 +20,22 @@
 - 🌱 Buenas prácticas con **Git y GitHub**
 - ☁️ Fundamentos de **computación en la nube (AWS)**
 - 🧠 Preparándome para certificaciones oficiales:
-  - 🐍 **PCEP** – Python Certified Entry-Level Programmer
   - ☕ **Associate Android Developer** -Certificación Android,Kotlin
   - 🛢️ **AWS Certified Cloud Practitioner** – Certificación en Amazon web service, computación en la nube.
+- Certificaciones obtenidas:
+  - 🐍 **PCEP** – Python Certified Entry-Level Programmer
 
+ 
+### 📚 **Cursos**
+
+| Course                                          | Offered By               | Completion Date  | 
+|-------------------------------------------------|--------------------------|------------------|
+| Android Basics with Compose                     | Google                   | -Jul 15, 2025    |
+| Kotlin Core                                     | JetBrains                | -(cursando)    |
+| Kotlin Developer                                | JetBrains                | -Jul 17, 2025    |
+| Python Essentials 1 *(Aligned with PCEP-30-02)* | Cisco Networking Academy | -2025-07-20      |
+| Python Essentials 2 *(Aligned with PCAP-31-03)* | Cisco Networking Academy | -(cursando)     |
+| Use Kotlin Coroutines in your Android App       | Google                   | -(cursando)      |
 
 
 ### 📊 Estadísticas de GitHub
@@ -32,6 +44,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellopgon&layout=compact&theme=dracula&cache_bust=20250720" />
 </p>
 ---
+
 
 ### 📫 Contacto
 - Correo: daniel.lopgon.4@gmail.com
