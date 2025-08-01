@@ -40,6 +40,20 @@
 
 ---
 
+## 🚀 Projects
+
+### Virtual Cat App 🐱
+An Android app made with Jetpack Compose where you care for a virtual cat by feeding, playing, and letting it sleep.  
+[GitHub Repository]() | [Live Demo](#)  
+
+### Simple Runner APK 🏃‍♂️
+A running tracker Android app to monitor your workouts and progress.  
+[GitHub Repository]()  
+
+### Poke IA 🔧
+Short description here...  
+[GitHub Repository]()
+
 ### 📊 GitHub Stats
 
 <p align="center">
