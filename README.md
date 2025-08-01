@@ -1,57 +1,58 @@
-<h1 align="center">¡Hola! 👋 mi nombre es Dani</h1>
+<h1 align="center">Hello! 👋 My name is Dani</h1>
 ---
 
-🎓 Actualmente estudio **Desarrollo de Aplicaciones Multiplataforma (DAM2)** en el **IES Alonso Madrigal** (Ávila).  
-🚀 Busco un sitio donde hacer mis **prácticas** o un primer contrato como **desarrollador junior**.
-
----
-
-### 🛠️ Tecnologías que manejo:
-- **Lenguajes:** Java, Python, JavaScript, Kotlin, SQL, PL/SQL  
-- **Bases de datos:** MySQL, Oracle  
-- **Entornos:** IntelliJ, VS Code, Android Studio, Git
+🎓 I am currently studying **Multiplatform Application Development (DAM2)** at **IES Alonso Madrigal**
+🚀 I am looking for an **internship** opportunity as a **junior developer**.
 
 ---
 
-### 🎯 Lo que estoy aprendiendo actualmente
+### 🛠️ Technologies I work with:
+- **Languages:** Java, Python, JavaScript, Kotlin, SQL, PL/SQL  
+- **Databases:** MySQL, Oracle  
+- **Environments:** IntelliJ, VS Code, Android Studio, Git
 
-- 📱 Desarrollo de aplicaciones Android con **Kotlin**
-- 🧱 Fundamentos de **arquitectura de software**
-- 🌱 Buenas prácticas con **Git y GitHub**
-- ☁️ Fundamentos de **computación en la nube (AWS)**
-- 🧠 Preparándome para certificaciones oficiales:
-  - ☕ **Associate Android Developer** -Certificación Android,Kotlin
-  - 🛢️ **AWS Certified Cloud Practitioner** – Certificación en Amazon web service, computación en la nube.
-- Certificaciones obtenidas:
+---
+
+### 🎯 What I am currently learning:
+
+- 📱 Android app development with **Kotlin**
+- 🧱 Fundamentals of **software architecture**
+- 🌱 Best practices with **Git and GitHub**
+- ☁️ Basics of **cloud computing (AWS)**
+- 🧠 Preparing for official certifications:
+  - ☕ **Associate Android Developer** – Android Certification, Kotlin
+  - 🛢️ **AWS Certified Cloud Practitioner** – Amazon Web Services, Cloud Computing
+- Certifications obtained:
   - 🐍 **PCEP** – Python Certified Entry-Level Programmer
 
- 
-### 📚 **Cursos**
+---
+
+### 📚 **Courses**
 
 | Course                                          | Offered By               | Completion Date  | 
 |-------------------------------------------------|--------------------------|------------------|
-| Android Basics with Compose                     | Google                   | -Jul 15, 2025    |
-| Kotlin Core                                     | JetBrains                | -(cursando)    |
-| Kotlin Developer                                | JetBrains                | -Jul 17, 2025    |
-| Python Essentials 1 *(Aligned with PCEP-30-02)* | Cisco Networking Academy | -2025-07-20      |
-| Python Essentials 2 *(Aligned with PCAP-31-03)* | Cisco Networking Academy | -(cursando)     |
-| Use Kotlin Coroutines in your Android App       | Google                   | -(cursando)      |
+| Android Basics with Compose                     | Google                   | -(in progress)   |
+| Kotlin Core                                     | JetBrains                | -(in progress)   |
+| Kotlin Developer                                | JetBrains                | -(in progress)   |
+| Python Essentials 1 *(Aligned with PCEP-30-02)* | Cisco Networking Academy | -08-07-2025      |
+| Python Essentials 2 *(Aligned with PCAP-31-03)* | Cisco Networking Academy | -(in progress)   |
+| Use Kotlin Coroutines in your Android App       | Google                   | -(in progress)   |
 
+---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellopgon&layout=compact&theme=dracula&cache_bust=20250720" />
 </p>
+
 ---
 
-
-### 📫 Contacto
-- Correo: daniel.lopgon.4@gmail.com
+### 📫 Contact
+- Email: daniel.lopgon.4@gmail.com
 
 ---
 
 <p align="center">
-  <i>"Programar no es solo escribir código, es construir ideas con lógica y creatividad."</i>
+  <i>"Programming is not just about writing code, it's about building ideas with logic and creativity."</i>
 </p>
-
