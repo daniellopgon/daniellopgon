@@ -44,15 +44,15 @@
 
 ### Virtual Cat App 🐱
 An Android app made with Jetpack Compose where you care for a virtual cat by feeding, playing, and letting it sleep.  
-[GitHub Repository]() | [Live Demo](#)  
+[GitHub Repository](https://github.com/daniellopgon/VirtualCat.git)
 
 ### Simple Runner APK 🏃‍♂️
 A running tracker Android app to monitor your workouts and progress.  
-[GitHub Repository]()  
+[GitHub Repository](https://github.com/daniellopgon/SimpleRunnerAPK.git)  
 
-### Poke IA 🔧
+### Poke IA ⚡🐭 
 Short description here...  
-[GitHub Repository]()
+[GitHub Repository](https://github.com/daniellopgon/pokeIA.git)
 
 ### 📊 GitHub Stats
 
