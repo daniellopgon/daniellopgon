@@ -56,11 +56,11 @@ Java tool that watches Pokémon Showdown battles, suggests moves/teams/counters 
 
 ### 🎯 DAM-API Public
 Finished project - Java | Spring Boot & MyBatis | Persistence layer with PostgreSQL database.
-[GitHub Repository](https://github.com/daniellopgon/pokeIA.git)
+[GitHub Repository](https://github.com/daniellopgon/DAM-API.git)
 
 ### 🎮 Video Game Store Public
 Finished project - Java/JDBC | Exercise with persistence layer and OOP
-[GitHub Repository](https://github.com/daniellopgon/pokeIA.git)
+[GitHub Repository](https://github.com/daniellopgon/Tienda-videojuegos.git)
 
 ---
 
