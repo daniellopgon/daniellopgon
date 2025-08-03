@@ -51,8 +51,10 @@ A running tracker Android app to monitor your workouts and progress.
 [GitHub Repository](https://github.com/daniellopgon/SimpleRunnerAPK.git)  
 
 ### Poke IA ⚡🐭 
-Short description here...  
+Java tool that watches Pokémon Showdown battles, suggests moves/teams/counters in real time.
 [GitHub Repository](https://github.com/daniellopgon/pokeIA.git)
+
+---
 
 ### 📊 GitHub Stats
 
