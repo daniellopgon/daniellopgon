@@ -40,27 +40,55 @@
 
 ---
 
-## 🚀 Projects
+## 🛠 Projects  
 
-### Virtual Cat App 🐱
-An Android app made with Jetpack Compose where you care for a virtual cat by feeding, playing, and letting it sleep.  
-[GitHub Repository](https://github.com/daniellopgon/VirtualCat.git)
+<p align="center">
+  <!-- Virtual Cat App -->
+  <a href="https://github.com/usuario/VirtualCatApp">
+    <img src="https://img.shields.io/badge/🐱 Virtual Cat App-Android%20|%20Jetpack%20Compose-blue?style=for-the-badge" alt="Virtual Cat App">
+  </a><br>
+  <sub>An Android app made with Jetpack Compose where you care for a virtual cat by feeding, playing, and letting it sleep.</sub>
+</p>
 
-### Simple Runner APK 🏃‍♂️
-A running tracker Android app to monitor your workouts and progress.  
-[GitHub Repository](https://github.com/daniellopgon/SimpleRunnerAPK.git)  
+---
 
-### Poke IA ⚡🐭 
-Java tool that watches Pokémon Showdown battles, suggests moves/teams/counters in real time.
-[GitHub Repository](https://github.com/daniellopgon/pokeIA.git)
+<p align="center">
+  <!-- Simple Runner APK -->
+  <a href="https://github.com/usuario/SimpleRunnerAPK">
+    <img src="https://img.shields.io/badge/🏃‍♂️ Simple Runner APK-Android%20|%20Workout%20Tracker-green?style=for-the-badge" alt="Simple Runner APK">
+  </a><br>
+  <sub>A running tracker Android app to monitor your workouts and progress.</sub>
+</p>
 
-### 🎯 DAM-API Public
-Finished project - Java | Spring Boot & MyBatis | Persistence layer with PostgreSQL database.
-[GitHub Repository](https://github.com/daniellopgon/DAM-API.git)
+---
 
-### 🎮 Video Game Store Public
-Finished project - Java/JDBC | Exercise with persistence layer and OOP
-[GitHub Repository](https://github.com/daniellopgon/Tienda-videojuegos.git)
+<p align="center">
+  <!-- Poke IA -->
+  <a href="https://github.com/usuario/PokeIA">
+    <img src="https://img.shields.io/badge/⚡🐭 Poke IA-Java%20|%20AI%20Pokémon-orange?style=for-the-badge" alt="Poke IA">
+  </a><br>
+  <sub>Java tool that watches Pokémon Showdown battles, suggests moves/teams/counters in real time.</sub>
+</p>
+
+---
+
+<p align="center">
+  <!-- DAM-API -->
+  <a href="https://github.com/usuario/DAM-API">
+    <img src="https://img.shields.io/badge/🎯 DAM--API-Java%20|%20Spring%20Boot%20&%20MyBatis-red?style=for-the-badge" alt="DAM-API">
+  </a><br>
+  <sub>Finished project - Java | Spring Boot & MyBatis | Persistence layer with PostgreSQL database.</sub>
+</p>
+
+---
+
+<p align="center">
+  <!-- Video Game Store -->
+  <a href="https://github.com/usuario/VideoGameStore">
+    <img src="https://img.shields.io/badge/🎮 Video Game Store-Java%20|%20JDBC%20&%20OOP-purple?style=for-the-badge" alt="Video Game Store">
+  </a><br>
+  <sub>Finished project - Java/JDBC | Exercise with persistence layer and OOP.</sub>
+</p>
 
 ---
 
