@@ -92,6 +92,17 @@
 
 ---
 
+<p align="center">
+  <!-- Video Game Store -->
+  <a href="https://github.com/usuario/VideoGameStore">
+    <img src="https://img.shields.io/badge/⏰⌚🕒 Timely-Java%20|%20JDBC%20&%20OOP-purple?style=for-the-badge" alt="Timely">
+  </a><br>
+  <sub>Timely is an HR management project built with Java | Spring Boot and a MariaDB database.</sub>
+</p>
+
+---
+
+
 ### 📊 GitHub Stats
 
 <p align="center">
