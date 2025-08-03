@@ -54,6 +54,13 @@ A running tracker Android app to monitor your workouts and progress.
 Java tool that watches Pokémon Showdown battles, suggests moves/teams/counters in real time.
 [GitHub Repository](https://github.com/daniellopgon/pokeIA.git)
 
+### 🎯 DAM-API Public
+Finished project - Java | Spring Boot & MyBatis | Persistence layer with PostgreSQL database.
+[GitHub Repository](https://github.com/daniellopgon/pokeIA.git)
+
+### 🎮 Video Game Store Public
+Finished project - Java/JDBC | Exercise with persistence layer and OOP
+[GitHub Repository](https://github.com/daniellopgon/pokeIA.git)
 
 ---
 
