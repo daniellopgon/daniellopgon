@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋 My name is Dani</h1>
 ---
 
-🎓 I am currently studying **Multiplatform Application Development (DAM2)** at **IES Alonso Madrigal**
+🎓 I am currently studying **Multiplatform Application Development (DAM2)** at **IES Alonso Madrigal** (Ávila)(Spain)
 🚀 I am looking for an **internship** opportunity as a **junior developer**.
 
 ---
