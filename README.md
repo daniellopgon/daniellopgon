@@ -7,9 +7,9 @@
 ---
 
 ### 🛠️ Technologies I work with:
-- **Languages:** Java, Python, JavaScript, Kotlin, SQL, PL/SQL  
-- **Databases:** MySQL, Oracle  
-- **Environments:** IntelliJ, VS Code, Android Studio, Git
+- **Languages:** Java, Python, Kotlin  
+- **Databases:** MySQL, PostgreSQL, Oracle 
+- **Environments:** IntelliJ, VS Code, Android Studio
 
 ---
 
@@ -23,7 +23,7 @@
   - ☕ **Associate Android Developer** – Android Certification, Kotlin
   - 🛢️ **AWS Certified Cloud Practitioner** – Amazon Web Services, Cloud Computing
   - 🎯**OCI AI Foundations Associate** - Oracle
-  - 🎯**OCI Foundations Associate**
+  - 🎯**OCI Foundations Associate** - Oracle
 - Certifications obtained:
   - 🐍 **PCEP** – Python Certified Entry-Level Programmer
 
@@ -37,7 +37,7 @@
 | Kotlin Core                                     | JetBrains                | -(in progress)   |
 | Kotlin Developer                                | JetBrains                | -(in progress)   |
 | Python Essentials 1 *(Aligned with PCEP-30-02)* | Cisco Networking Academy | -08-07-2025      |
-| Python Essentials 2 *(Aligned with PCAP-31-03)* | Cisco Networking Academy | -08/08/2025   |
+| Python Essentials 2 *(Aligned with PCAP-31-03)* | Cisco Networking Academy | -08/08/2025      |
 | Use Kotlin Coroutines in your Android App       | Google                   | -(in progress)   |
 | AI for All: From Basics to GenAI Practice       | NVIDIA                   | -17/08/2025      |
 | Oracle Cloud Infrastructure AI Foundations      | Oracle                   | -09/08/2025      |
