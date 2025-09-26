@@ -1,35 +1,35 @@
 <h1 align="center">Hello! 👋 My name is Dani</h1>
 ---
 
-🎓 I am currently studying **Multiplatform Application Development (DAM2)** at **IES Alonso Madrigal** (Ávila)(Spain)
-🚀 I am looking for an **internship** opportunity as a **junior developer**.
+I am currently studying **Multiplatform Application Development (DAM2)** at **IES Alonso Madrigal** (Ávila)(Spain)
+I am looking for an **internship** opportunity as a **junior developer**.
 
 ---
 
-### 🛠️ Technologies I work with:
+### Technologies I work with:
 - **Languages:** Java, Python, Kotlin  
-- **Databases:** MySQL, PostgreSQL, Oracle 
+- **Databases:** PostgreSQL 
 - **Environments:** IntelliJ, VS Code, Android Studio
 
 ---
 
 ### 🎯 What I am currently learning:
 
-- 📱 Android app development with **Kotlin**
-- 🧱 Fundamentals of **software architecture**
-- 🌱 Best practices with **Git and GitHub**
-- ☁️ Basics of **cloud computing (AWS)**
-- 🧠 Preparing for official certifications:
-  - ☕ **Associate Android Developer** – Android Certification, Kotlin
-  - 🛢️ **AWS Certified Cloud Practitioner** – Amazon Web Services, Cloud Computing
-  - 🎯**OCI AI Foundations Associate** - Oracle
-  - 🎯**OCI Foundations Associate** - Oracle
+- Android app development with **Kotlin**
+- Fundamentals of **software architecture**
+- Best practices with **Git and GitHub**
+- Basics of **cloud computing (AWS)**
+- Preparing for official certifications:
+  - **Associate Android Developer** – Android Certification, Kotlin
+  - **AWS Certified Cloud Practitioner** – Amazon Web Services, Cloud Computing
+  - **OCI AI Foundations Associate** - Oracle
+  - **OCI Foundations Associate** - Oracle
 - Certifications obtained:
-  - 🐍 **PCEP** – Python Certified Entry-Level Programmer
+  - **PCEP** – Python Certified Entry-Level Programmer
 
 ---
 
-### 📚 **Courses**
+### **Courses**
 
 | Course                                          | Offered By               | Completion Date  | 
 |-------------------------------------------------|--------------------------|------------------|
@@ -44,12 +44,12 @@
 
 ---
 
-## 🛠 Projects  
+## Projects  
 
 <p align="center">
   <!-- Virtual Cat App -->
   <a href="https://github.com/daniellopgon/VirtualCat.git">
-    <img src="https://img.shields.io/badge/🐱 Virtual Cat App-Android%20|%20Jetpack%20Compose-blue?style=for-the-badge" alt="Virtual Cat App">
+    <img src="https://img.shields.io/badge/ Virtual Cat App-Android%20|%20Jetpack%20Compose-blue?style=for-the-badge" alt="Virtual Cat App">
   </a><br>
   <sub>An Android app made with Jetpack Compose where you care for a virtual cat by feeding, playing, and letting it sleep.</sub>
 </p>
@@ -69,7 +69,7 @@
 <p align="center">
   <!-- Poke IA -->
   <a href="https://github.com/daniellopgon/PokeIA">
-    <img src="https://img.shields.io/badge/⚡🐭 Poke IA-Java%20|%20AI%20Pokémon-orange?style=for-the-badge" alt="Poke IA">
+    <img src="https://img.shields.io/badge/ Poke IA-Java%20|%20AI%20Pokémon-orange?style=for-the-badge" alt="Poke IA">
   </a><br>
   <sub>Java tool that watches Pokémon Showdown battles, suggests moves/teams/counters in real time.</sub>
 </p>
@@ -79,7 +79,7 @@
 <p align="center">
   <!-- DAM-API -->
   <a href="https://github.com/daniellopgon/DAM-API.git">
-    <img src="https://img.shields.io/badge/🎯 DAM--API-Java%20|%20Spring%20Boot%20&%20MyBatis-red?style=for-the-badge" alt="DAM-API">
+    <img src="https://img.shields.io/badge/ DAM--API-Java%20|%20Spring%20Boot%20&%20MyBatis-red?style=for-the-badge" alt="DAM-API">
   </a><br>
   <sub>Finished project - Java | Spring Boot & MyBatis | Persistence layer with PostgreSQL database.</sub>
 </p>
@@ -89,7 +89,7 @@
 <p align="center">
   <!-- Video Game Store -->
   <a href="https://github.com/daniellopgon/Tienda-videojuegos.git">
-    <img src="https://img.shields.io/badge/🎮 Video Game Store-Java%20|%20JDBC%20&%20OOP-purple?style=for-the-badge" alt="Video Game Store">
+    <img src="https://img.shields.io/badge/ Video Game Store-Java%20|%20JDBC%20&%20OOP-purple?style=for-the-badge" alt="Video Game Store">
   </a><br>
   <sub>Finished project - Java/JDBC | Exercise with persistence layer and OOP.</sub>
 </p>
@@ -99,7 +99,7 @@
 <p align="center">
   <!-- Video Game Store -->
   <a href="https://github.com/daniellopgon/Timely-public-version.git">
-    <img src="https://img.shields.io/badge/⏰⌚🕒 Timely-Java%20|%20JDBC%20&%20OOP-purple?style=for-the-badge" alt="Timely">
+    <img src="https://img.shields.io/badge/ Timely-Java%20|%20JDBC%20&%20OOP-purple?style=for-the-badge" alt="Timely">
   </a><br>
   <sub>Timely is an HR management project built with Java | Spring Boot and a MariaDB database.</sub>
 </p>
@@ -107,7 +107,7 @@
 ---
 
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellopgon&layout=compact&theme=dracula&cache_bust=20250720" />
@@ -115,7 +115,7 @@
 
 ---
 
-### 📫 Contact
+### Contact
 - Email: daniel.lopgon.4@gmail.com
 
 ---
