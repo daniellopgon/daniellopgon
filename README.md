@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋 My name is Dani</h1>
 ---
 
-I am Desarrollador Mobile | Android & Kotlin
+I am developer Mobile | Android & Kotlin
 ---
 
 ### Technologies I work with:
