@@ -1,15 +1,13 @@
 <h1 align="center">Hello! 👋 My name is Dani</h1>
 ---
 
-I am currently studying **Multiplatform Application Development (DAM2)** at **IES Alonso Madrigal** (Ávila)(Spain)
-I am looking for an **internship** opportunity as a **junior developer**.
-
+I am Desarrollador Mobile | Android & Kotlin
 ---
 
 ### Technologies I work with:
 - **Languages:** Java, Python, Kotlin  
-- **Databases:** PostgreSQL 
-- **Environments:** IntelliJ, VS Code, Android Studio
+- **Databases:** PostgreSQL, Oracle
+- **Frameworks:** SpringBoot, Android
 
 ---
 
@@ -17,7 +15,7 @@ I am looking for an **internship** opportunity as a **junior developer**.
 
 - Android app development with **Kotlin**
 - Fundamentals of **software architecture**
-- Best practices with **Git and GitHub**
+- Best practices with **Clean code**
 - Basics of **cloud computing (AWS)**
 - Preparing for official certifications:
   - **Associate Android Developer** – Android Certification, Kotlin
