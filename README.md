@@ -11,7 +11,7 @@ I am developer Mobile | Android & Kotlin
 
 ---
 
-### 🎯 What I am currently learning:
+### What I am currently learning:
 
 - Android app development with **Kotlin**
 - Fundamentals of **software architecture**
