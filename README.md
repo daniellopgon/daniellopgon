@@ -57,7 +57,7 @@ I am developer Mobile | Android & Kotlin
 <p align="center">
   <!-- Simple Runner APK -->
   <a href="https://github.com/daniellopgon/SimpleRunnerAPK.git">
-    <img src="https://img.shields.io/badge/🏃‍♂️ Simple Runner APK-Android%20|%20Workout%20Tracker-green?style=for-the-badge" alt="Simple Runner APK">
+    <img src="https://img.shields.io/badge/Simple Runner APK-Android%20|%20Workout%20Tracker-green?style=for-the-badge" alt="Simple Runner APK">
   </a><br>
   <sub>A running tracker Android app to monitor your workouts and progress.</sub>
 </p>
@@ -101,6 +101,8 @@ I am developer Mobile | Android & Kotlin
   </a><br>
   <sub>Timely is an HR management project built with Java | Spring Boot and a MariaDB database.</sub>
 </p>
+
+---
 
 <p align="center">
   <!-- SuperHeroe-API -->
