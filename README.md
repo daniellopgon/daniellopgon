@@ -95,11 +95,19 @@ I am developer Mobile | Android & Kotlin
 ---
 
 <p align="center">
-  <!-- Video Game Store -->
+  <!-- Timely -->
   <a href="https://github.com/daniellopgon/Timely-public-version.git">
     <img src="https://img.shields.io/badge/ Timely-Java%20|%20JDBC%20&%20OOP-purple?style=for-the-badge" alt="Timely">
   </a><br>
   <sub>Timely is an HR management project built with Java | Spring Boot and a MariaDB database.</sub>
+</p>
+
+<p align="center">
+  <!-- SuperHeroe-API -->
+  <a href="">
+    <img src="https://github.com/daniellopgon/SuperHeroes-API.git" alt="SuperHeroe">
+  </a><br>
+  <sub>SuperHeroe - API  is a project built with Android | Kotlin and Retrofit Gson.</sub>
 </p>
 
 ---
