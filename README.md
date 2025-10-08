@@ -104,8 +104,8 @@ I am developer Mobile | Android & Kotlin
 
 <p align="center">
   <!-- SuperHeroe-API -->
-  <a href="">
-    <img src="https://github.com/daniellopgon/SuperHeroes-API.git" alt="SuperHeroe">
+  <a href="https://github.com/daniellopgon/SuperHeroes-API.git" alt="SuperHeroe">
+    <img src="https://img.shields.io/badge/ SuperHero-API%20-red?style=for-the-badge" alt="Timely">
   </a><br>
   <sub>SuperHeroe - API  is a project built with Android | Kotlin and Retrofit Gson.</sub>
 </p>
