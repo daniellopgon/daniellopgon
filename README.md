@@ -55,9 +55,9 @@ I am developer Mobile | Android & Kotlin
 ---
 
 <p align="center">
-  <!-- Simple Runner APK -->
+  <!-- Simple Runner Mobile -->
   <a href="https://github.com/daniellopgon/SimpleRunnerAPK.git">
-    <img src="https://img.shields.io/badge/Simple Runner APK-Android%20|%20Workout%20Tracker-green?style=for-the-badge" alt="Simple Runner APK">
+    <img src="https://img.shields.io/badge/Simple Runner APK-Android%20|%20Workout%20Tracker-green?style=for-the-badge" alt="Simple Runner Mobile">
   </a><br>
   <sub>A running tracker Android app to monitor your workouts and progress.</sub>
 </p>
