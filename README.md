@@ -32,9 +32,9 @@ I am developer Mobile | Android & Kotlin
 | Course                                          | Offered By               | Completion Date  | 
 |-------------------------------------------------|--------------------------|------------------|
 | Android Basics with Compose                     | Google                   | -(in progress)   |
-| Kotlin Core                                     | JetBrains                | -(in progress)   |
-| Kotlin Developer                                | JetBrains                | -(in progress)   |
-| Python Essentials 1 *(Aligned with PCEP-30-02)* | Cisco Networking Academy | -08-07-2025      |
+| Kotlin Core                                     | JetBrains                | -10/10/2025   |
+| Kotlin Developer                                | JetBrains                | -14/10/2025   |
+| Python Essentials 1 *(Aligned with PCEP-30-02)* | Cisco Networking Academy | -08/07/2025      |
 | Python Essentials 2 *(Aligned with PCAP-31-03)* | Cisco Networking Academy | -08/08/2025      |
 | Use Kotlin Coroutines in your Android App       | Google                   | -(in progress)   |
 | AI for All: From Basics to GenAI Practice       | NVIDIA                   | -17/08/2025      |
