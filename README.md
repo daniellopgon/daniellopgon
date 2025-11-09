@@ -119,6 +119,16 @@ I am developer Mobile | Android & Kotlin
 
 ---
 
+<p align="center">
+  <!-- WeatherApp -->
+  <a href="https://github.com/daniellopgon/WeatherApp.git" alt="WeatherApp">
+    <img src="https://img.shields.io/badge/ WeatherAppn%20-green?style=for-the-badge" alt="WeatherApp">
+  </a><br>
+  <sub> "WeatherApp is a simple and modern weather application that displays real-time data from a reliable weather API."</sub>
+</p>
+
+---
+
 
 ### GitHub Stats
 
