@@ -17,11 +17,6 @@ I am developer Mobile | Android & Kotlin
 - Fundamentals of **software architecture**
 - Best practices with **Clean code**
 - Basics of **cloud computing (AWS)**
-- Preparing for official certifications:
-  - **Associate Android Developer** – Android Certification, Kotlin
-  - **AWS Certified Cloud Practitioner** – Amazon Web Services, Cloud Computing
-  - **OCI AI Foundations Associate** - Oracle
-  - **OCI Foundations Associate** - Oracle
 - Certifications obtained:
   - **PCEP** – Python Certified Entry-Level Programmer
 
@@ -31,12 +26,12 @@ I am developer Mobile | Android & Kotlin
 
 | Course                                          | Offered By               | Completion Date  | 
 |-------------------------------------------------|--------------------------|------------------|
-| Android Basics with Compose                     | Google                   | -(in progress)   |
+| Android Basics with Compose                     | Google                   | -10/09/2025   |
 | Kotlin Core                                     | JetBrains                | -10/10/2025   |
 | Kotlin Developer                                | JetBrains                | -14/10/2025   |
 | Python Essentials 1 *(Aligned with PCEP-30-02)* | Cisco Networking Academy | -08/07/2025      |
 | Python Essentials 2 *(Aligned with PCAP-31-03)* | Cisco Networking Academy | -08/08/2025      |
-| Use Kotlin Coroutines in your Android App       | Google                   | -(in progress)   |
+| Use Kotlin Coroutines in your Android App       | Google                   | -06/07/2025   |
 | AI for All: From Basics to GenAI Practice       | NVIDIA                   | -17/08/2025      |
 | Oracle Cloud Infrastructure AI Foundations      | Oracle                   | -09/08/2025      |
 
