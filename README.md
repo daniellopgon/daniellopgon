@@ -29,8 +29,8 @@ I am developer Mobile | Android & Kotlin
 | Android Basics with Compose                     | Google                   | -10/09/2025   |
 | Kotlin Core                                     | JetBrains                | -10/10/2025   |
 | Kotlin Developer                                | JetBrains                | -14/10/2025   |
-| Python Essentials 1 *(Aligned with PCEP-30-02)* | Cisco Networking Academy | -08/07/2025      |
-| Python Essentials 2 *(Aligned with PCAP-31-03)* | Cisco Networking Academy | -08/08/2025      |
+| Python Essentials 1 *(Aligned with PCEP-30-02)* | Open EDG Python Institute | -08/07/2025      |
+| Python Essentials 2 *(Aligned with PCAP-31-03)* | Open EDG Python Institute | -08/08/2025      |
 | Use Kotlin Coroutines in your Android App       | Google                   | -06/07/2025   |
 | AI for All: From Basics to GenAI Practice       | NVIDIA                   | -17/08/2025      |
 | Oracle Cloud Infrastructure AI Foundations      | Oracle                   | -09/08/2025      |
@@ -102,9 +102,19 @@ I am developer Mobile | Android & Kotlin
 <p align="center">
   <!-- SuperHeroe-API -->
   <a href="https://github.com/daniellopgon/SuperHeroes-API.git" alt="SuperHeroe">
-    <img src="https://img.shields.io/badge/ SuperHero-API%20-red?style=for-the-badge" alt="Timely">
+    <img src="https://img.shields.io/badge/ SuperHero-API%20-red?style=for-the-badge" alt="SuperHeroe">
   </a><br>
   <sub>SuperHeroe - API  is a project built with Android | Kotlin and Retrofit Gson.</sub>
+</p>
+
+---
+
+<p align="center">
+  <!-- Settings-Screen -->
+  <a href="https://github.com/daniellopgon/User-Preferences-and-App-Information-Screen.git" alt="Settings">
+    <img src="https://img.shields.io/badge/ Settings-Screen%20-blue?style=for-the-badge" alt="Settings">
+  </a><br>
+  <sub>A "Settings" screen where I can manage my preferences and view relevant information about the app.</sub>
 </p>
 
 ---
