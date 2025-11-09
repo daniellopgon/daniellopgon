@@ -120,6 +120,8 @@ I am developer Mobile | Android & Kotlin
 
 ### Contact
 - Email: daniel.lopgon.4@gmail.com
+- Linkedin: www.linkedin.com/in/danilop418
+- X: https://x.com/tera_glitch
 
 ---
 
