@@ -129,6 +129,16 @@ I am developer Mobile | Android & Kotlin
 
 ---
 
+<p align="center">
+  <!-- Dani Control Version -->
+  <a href="https://github.com/daniellopgon/Dani-Control-Version.git" alt="Dani Control Version">
+    <img src="https://img.shields.io/badge/DaniVersion%20-red?style=for-the-badge" alt="DaniControlVersion">
+  </a><br>
+  <sub> "This repository is an attempt to create my own version compiler."</sub>
+</p>
+
+---
+
 
 ### GitHub Stats
 
