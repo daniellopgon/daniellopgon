@@ -140,14 +140,6 @@ I am developer Mobile | Android & Kotlin
 ---
 
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniellopgon&layout=compact&theme=dracula&cache_bust=20250720" />
-</p>
-
----
-
 ### Contact
 - Email: daniel.lopgon.4@gmail.com
 - Linkedin: www.linkedin.com/in/danilop418
