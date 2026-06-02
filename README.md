@@ -1,12 +1,10 @@
 <h1 align="center">Daniel López González</h1>
 
-<p align="center">Desarrollador Android</p>
+<p align="center">Desarrollador de software</p>
 
 ---
 
-Desarrollador en formación con experiencia previa como ingeniero de software junior en Indra donde participé en el proyecto de Calidad del Dato para Telefónica enfocado en el tratamiento y análisis de grandes volúmenes de datos mediante consultas SQL, generación de informes automatizados y transformación de datos bajo criterios de calidad empresarial.
-
-Mi formación académica combina el Grado en Historia que me aportó capacidades de análisis crítico, síntesis de información e investigación documental con el Ciclo Superior en Desarrollo de Aplicaciones Multiplataformadonde adquirí conocimientos en Java, Kotlin, bases de datos SQL, control de versiones y desarrollo Android.
+Desarrollador con experiencia previa como ingeniero de software junior en Indra y desarrollador de software front en Daremapp, donde trabajo actualmente.
 
 ---
 
@@ -16,7 +14,7 @@ Mi formación académica combina el Grado en Historia que me aportó capacidades
   <img src="https://img.shields.io/badge/NADIR-Biofeedback%20Respiratorio-0D1117?style=for-the-badge" alt="NADIR">
 </a>
 
-Aplicación Android de biofeedback respiratorio para la gestión de crisis de ansiedad. Utiliza el acelerómetro del teléfono para detectar movimientos respiratorios y proporciona retroalimentación multimodal en tiempo real mediante canales visuales, hápticos y auditivos. Todo el procesamiento ocurre localmente en el dispositivo garantizando la privacidad del usuario.
+Aplicación Android de biofeedback respiratorio para la gestión de crisis de ansiedad. Utiliza el acelerómetro del teléfono para detectar movimientos respiratorios.
 
 <br>
 
@@ -24,7 +22,7 @@ Aplicación Android de biofeedback respiratorio para la gestión de crisis de an
   <img src="https://img.shields.io/badge/EyeSense-IA%20+%20Realidad%20Aumentada-0D1117?style=for-the-badge" alt="EyeSense">
 </a>
 
-Colaboración con EyeSense, iniciativa del IES Alonso Madrigal que combina inteligencia artificial y realidad aumentada para mejorar la comunicación de personas que utilizan seguimiento ocular. El proyecto desarrolla una aplicación que predice respuestas completas basándose en el contexto conversacional junto con un teclado optimizado para español que reduce el esfuerzo visual. La solución integra el seguimiento ocular en gafas de realidad aumentada conectadas a un dispositivo móvil permitiendo además recuperar y reproducir la voz original del usuario a partir de vídeos previos.
+El proyecto desarrolla una aplicación que predice respuestas completas basándose en el contexto conversacional junto con un teclado optimizado para español que reduce el esfuerzo visual. La solución integra el seguimiento ocular en gafas de realidad aumentada conectadas a un dispositivo móvil permitiendo además recuperar y reproducir la voz original del usuario a partir de vídeos previos.
 
 ---
 
