@@ -4,13 +4,10 @@
 
 ---
 
-Desarrollador con experiencia previa como ingeniero de software junior en Indra y desarrollador de software front en Daremapp, donde trabajo actualmente.
-
----
 
 ### Proyectos de Investigación
 
-<a href="https://daniellopgon.github.io/NADIR_DOC/">
+<a href="https://play.google.com/store/apps/details?id=com.daniellopgon.nadir&hl=es">
   <img src="https://img.shields.io/badge/NADIR-Biofeedback%20Respiratorio-0D1117?style=for-the-badge" alt="NADIR">
 </a>
 
