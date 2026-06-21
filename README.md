@@ -50,6 +50,13 @@ Sistema de gestión de recursos humanos con backend construido en Java y Spring 
 Sistema de realidad aumentada con geolocalización, utilizando Ar.js, Ar.frame y Angular.
 
 ---
+<a href="https://github.com/daniellopgon/mapa-hist-rico.git">
+  <img src="https://img.shields.io/badge/map-history%20|%20leaflet%20-0D1117?style=for-the-badge" alt="map-history">
+</a>
+
+Mapa hisórico de Ávila recreado con leaflet. Descubre lugares como si fuera un google maps medieval.
+
+---
 
 
 
