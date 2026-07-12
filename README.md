@@ -58,6 +58,16 @@ Mapa hisórico de Ávila recreado con leaflet. Descubre lugares como si fuera un
 
 ---
 
+### Proyectos personales
+
+<a href="https://github.com/daniellopgon/prehistoria.git">
+  <img src="https://img.shields.io/badge/prehistoria-TypeScript%20|%20Angular%20-0D1117?style=for-the-badge" alt="prehistoria">
+</a>
+
+web sobre la prehistoria, recopilación de útiles y de diferentes especies de hominidos.
+
+---
+
 
 
 ### Contacto
